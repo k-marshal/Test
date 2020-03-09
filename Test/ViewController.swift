@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func Press(_ sender: Any) {
-        Label.text = "First you take your" + blank.text!; + "then add a layer of" + blank2.text!; +" before you pour on a hearty dose of"; +blank3.text! + "next press some" ;+blank4.text! + "down into the"; + blank5.text! + "covering with a sprinkle of"; + blank6.text! + "Thats how i make a"; + blank7.text! + ".";
+        Label.text = "First you take your" + blank.text! + "then add a layer of" + blank2.text! + " before you pour on a hearty dose of" + blank3.text! + "next press some"   + blank4.text! + "down into the"  + blank5.text! + "covering with a sprinkle of";  +blank6.text! + "Thats how i make a" + blank7.text! + ".";
     
         
     }
